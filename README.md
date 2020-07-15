@@ -13,4 +13,6 @@ There are approximately 3,000 images for each of 4 different cell types grouped 
 
 ## Model Performance
 
-This CNN model achieved test accuracy of 95.51%. by using deep convolution network with residual connections to improve the performance.
+This CNN model achieved test accuracy of 99.6%. by using deep convolution network with residual connections to improve the performance.
+![image](https://user-images.githubusercontent.com/42896530/87512964-383b3180-c678-11ea-96c7-5bfac90cb3de.png)
+
